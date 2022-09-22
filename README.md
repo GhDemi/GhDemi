@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm GhDemi</h1>
+<h3 align="center">能学就学，佛系随缘</h3>
+  最近的学习进入了一个深深的坎 :(
 
-<!--
-**GhDemi/GhDemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying on **CUZ**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Reverse Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on [https://ghdemi.github.io/](https://ghdemi.github.io/)
+
+- 📫 How to reach me **471276001@qq.com**
+
+- ⚡ Fun fact **问的贼多，学的还菜**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghdemi&show_icons=true&theme=dark&locale=en" alt="ghdemi" /></p>
